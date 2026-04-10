@@ -1,0 +1,23 @@
+ticket_text,priority
+"My website is completely down, customers cannot buy anything",High
+"Server not responding, everything is broken please help",High
+"Cannot login to my account, getting error message",High
+Payment failed but money was deducted from my bank,High
+"Wrong amount charged on my invoice, please fix this",Medium
+Need to update my credit card information,Medium
+When will I receive my refund for order #12345,Medium
+My subscription shows cancelled but I still got charged,Medium
+How do I change my password?,Low
+What are your business hours on weekends?,Low
+Can you send me your product brochure,Low
+Do you offer discounts for students?,Low
+URGENT: System crash affecting all users,High
+"Cannot process payments, losing sales",High
+Database connection error,High
+Need to cancel my subscription,Medium
+Wrong product shipped to me,Medium
+Invoice has incorrect address,Medium
+Thanks for your help yesterday,Low
+What's your return policy?,Low
+How to contact support?,Low
+Feature request: dark mode,Low
